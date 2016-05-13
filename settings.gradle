@@ -1,0 +1,2 @@
+include ':app', ':pexkit'
+project(':pexkit').projectDir = new File('app/pexkit')
